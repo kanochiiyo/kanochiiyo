@@ -7,15 +7,14 @@
 
 - 🌱 I’m currently learning **C++, Python, and Web Development**
 
-- 💬 Ask me about **ENHYPEN's LEE HEESEUNG ;D**
+- 💬 Ask me about **ENHYPEN's LEE HEESEUNG 🦌**
 
-- 📫 Reach me through **Twitter on @dimsseung**
-
-- ⚡ Fun fact **I don't like cats sorry.**
+- ⚡ Fun fact: **I don't like cats sorry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dimsseung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimsseung" height="30" width="40" /></a>
+<a href="https://instagram.com/aandrsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aandrsta" height="30" width="40" /></a>
 <a href="https://discord.gg/kanochiiyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kanochiiyo" height="30" width="40" /></a>
 </p>
 
