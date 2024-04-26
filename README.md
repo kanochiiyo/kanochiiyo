@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinn! </h1>
 <h3 align="center">An undergraduate Information System student who loves dimsum.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanochiiyo&label=Profile%20views&color=0e75b6&style=flat" alt="kanochiiyo" /> </p>
-
 <p align="left"> <a href="https://twitter.com/dimsseung" target="blank"><img src="https://img.shields.io/twitter/follow/dimsseung?logo=twitter&style=for-the-badge" alt="dimsseung" /></a> </p>
-
 - 🌱 I’m currently learning **C++ and Python**
 - ⚡ Fun fact: **I am both weebs and kpopers. Also, I don't like cat.**
 
