@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dimsseung" target="blank"><img src="https://img.shields.io/twitter/follow/dimsseung?logo=twitter&style=for-the-badge" alt="dimsseung" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity.**
 - ⚡ Fun fact: **I am both weebs and kpopers.** 
 
 <h3 align="left">Connect with me! :3</h3>
