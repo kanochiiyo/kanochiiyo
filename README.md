@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/dimsseung" target="blank"><img src="https://img.shields.io/twitter/follow/dimsseung?logo=twitter&style=for-the-badge" alt="dimsseung" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity.**
+- 🌱 I’m currently learning about **Onchain activity on EVM.**
 - ⚡ Fun fact: **I am both weebs and kpopers.** 
 
 <h3 align="left">Connect with me! :3</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/dimsseung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimsseung" height="30" width="40" /></a> -->
-<a href="https://discord.gg/kanochiiyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eunjaeyi" height="30" width="40" /></a>
+<a href="https://discord.gg/eunjaeyii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eunjaeyi" height="30" width="40" /></a>
 </p>
 
 <!--- <h3 align="left">Languages and Tools:</h3>
