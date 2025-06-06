@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Dinn! </h1>
 <h3 align="center">An undergraduate Information System student who loves dimsum.</h3>
 
-<p align="left"> <a href="https://twitter.com/dimsseung" target="blank"><img src="https://img.shields.io/twitter/follow/dimsseung?logo=twitter&style=for-the-badge" alt="dimsseung" /></a> </p>
-
 - 🌱 I’m currently learning about **Onchain activity on EVM.**
 - ⚡ Fun fact: **I am both weebs and kpopers.** 
 
